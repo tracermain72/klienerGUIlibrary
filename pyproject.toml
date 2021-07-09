@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_klienerGUIlibrary"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "klienerGUIlibrary"
+version = "0.0.1"
+description = "a library for klieners"
+authors = ["tracermain"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
